@@ -1,4 +1,5 @@
 # smilebot
+admin page:- user=admin and password=admin
 Blog api
 Applied functionality:
 1:-user can  see profile by providing username and password 
